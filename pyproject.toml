@@ -21,3 +21,10 @@ black = "^22.10.0"
 [build-system]
 requires = ["poetry-core"]
 build-backend = "poetry.core.masonry.api"
+
+
+[tool.arkitekt]
+name = "basic"
+version = "0.1.0"
+identifier = "io.github.jhnnsrs/basic"
+scopes = ["basic"]
