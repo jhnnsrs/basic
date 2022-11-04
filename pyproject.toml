@@ -28,3 +28,4 @@ name = "basic"
 version = "0.1.0"
 identifier = "io.github.jhnnsrs/basic"
 scopes = ["basic"]
+image = "jhnnsrs/basic:prod"
