@@ -1,0 +1,7 @@
+name: basic
+image: jhnnsrs/basic:prod
+identifier: io.jhnnsrs.github.io
+version: 0.0.3
+scopes:
+  - read
+  - write

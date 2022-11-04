@@ -1,0 +1,23 @@
+[tool.poetry]
+name = "basic"
+version = "0.1.0"
+description = ""
+authors = ["jhnnsrs <jhnnsrs@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.9"
+arkitekt = "0.3.13"
+xarray-multiscale = "^0.3.3"
+colorthief = "^0.2.1"
+tifffile = "^2022.10.10"
+pillow = "^9.2.0"
+matplotlib = "^3.6.1"
+
+
+[tool.poetry.group.dev.dependencies]
+black = "^22.10.0"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
