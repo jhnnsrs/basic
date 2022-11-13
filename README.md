@@ -4,3 +4,5 @@
 
 This Github repo provides an arkitekt app with some basic functionality such
 as generating thumbnails for images and others.
+
+Isnt that nice
